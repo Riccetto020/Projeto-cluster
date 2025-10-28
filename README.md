@@ -6,7 +6,7 @@ Este projeto visa determinar o melhor algoritmo de clustering (KMeans vs. Agglom
 
 Fator Crítico: A solução implementa otimizações de Matriz Esparsa (CSR) e Truncated SVD para superar o limite de 16 GB de RAM imposto pelo volume massivo de dados (155.000 features).
 
-⚙️ Configuração (Copie e Cole)
+⚙️ Configuração
 1. Instalação das Dependências
 Execute este comando no Terminal do VS Code para garantir todas as bibliotecas necessárias:
 
